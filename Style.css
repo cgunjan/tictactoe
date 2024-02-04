@@ -51,3 +51,10 @@ body{
 .o{
     color:darkgoldenrod
 }
+
+@media (width<1200px ) {
+    main{
+        margin-left: 20%;
+    }
+    
+}
