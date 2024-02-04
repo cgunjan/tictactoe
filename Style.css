@@ -1,5 +1,6 @@
 main{
     margin-left: 45%;
+    margin-right: 40%;
    
 }
 
@@ -52,9 +53,4 @@ body{
     color:darkgoldenrod
 }
 
-@media (width<1200px ) {
-    main{
-        margin-left: 20%;
-    }
-    
-}
+
